@@ -20,6 +20,9 @@
     It is the first time that i write code of chain table, and i have no idea about it.
     https://github.com/aylei/leetcode-rust/blob/master/src/solution/s0002_add_two_numbers.rs helps me a lot.
     Thank you!
+    这是我第一次用rust写链表，没什么思路。
+    就大概照着这位大佬的代码写了出来。
+    非常感谢！
 */
 
 
